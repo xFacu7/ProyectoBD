@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Spuchifai
+namespace Espuchifai
 {
     public class Cancion
     {
-        
+        public string Nombre;
+        public int Contador;
+        public byte Num_orden;
     }
 }

@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Spuchifai
+namespace Espuchifai
 {
     public class Banda
     {
-        
+        public string Nombre;
+        public ushort Fundacion;
     }
 }
